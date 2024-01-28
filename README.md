@@ -1,5 +1,5 @@
 # Saflizer
- A simple solution to a big problem. A solution to drunk drivers, currently school bus drivers, but could be utilized for others in the future.
+ A simple solution to a big problem. A solution to drunk drivers, currently school bus drivers, but could be utilized for others in the future. **Devloped by Samik Heda and Taksheel Shah for AI/ML Hackathon on Road safety, NSS IIT Roorkee**
 
  ## The Problem
  Recently, druken drivers have been on the rise, and this affects school buses as well! We consulted with Mrs Rachana Heda, the COO of a local school company, Glentree Academy. They have three schools in Banglore. Mrs Rachana told us about how recently there were some issues with druken drivers. Even the police had instructed schools to conduct random breathalizer tests. However these are inneffective for a number of reasons including,
