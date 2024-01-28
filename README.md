@@ -23,5 +23,5 @@ With this software, a supervisor can create an account and manage and add driver
 
 ### The API
 
-### The Facial Recognition
+### The Breathalize Demo
 To utilize the facial recognition, simply start the script. It will ask you to enter your supervisor's username, after setting that the webcam should open. If you are registered, it will recognise you by your driver id. Then hit space to set your alchohol level. It will send an alert if the level is above the legal limit(35mg/l)
