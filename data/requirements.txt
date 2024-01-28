@@ -1,0 +1,6 @@
+customtkinter
+pillow
+CTkMessagebox
+opencv-python
+dlib
+face_recognition

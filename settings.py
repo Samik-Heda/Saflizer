@@ -1,0 +1,6 @@
+# colors
+WHITE = '#FFF'
+CLOSE_RED = '#8a0606'
+DARK_GREY = '#4a4a4a'
+EDIT_GREEN = '#3b9e62'
+DARK_BLUE = '#144870'
