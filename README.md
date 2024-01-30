@@ -22,6 +22,7 @@ With this software, a supervisor can create an account and manage and add driver
 3. To view a driver's past record, just click on the driver. Here you can also set whether he is on duty on not.
 
 ### The API
+The api communicates with the firebase storage system. Firebase is a google service that is used for a lot of things, in this case storage. The api also manages the alerts system as direct requests are sent out from the api to the code. The api is extremely secure, every command requires an authentication key and the api url is not public.
 
 ### The Breathalizer Demo
 To utilize the facial recognition, simply start the script. It will ask you to enter your supervisor's username, after setting that the webcam should open. If you are registered, it will recognise you by your driver id. Then hit space to set your alchohol level. It will send an alert if the level is above the legal limit(35mg/l)
