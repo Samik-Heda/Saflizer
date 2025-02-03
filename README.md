@@ -1,6 +1,5 @@
 # Winner of the AI/ML Hackathon on Road safety, NSS IIT Roorkee, 2024
 # Saflizer
-Winner of the AI/ML Hackathon on Road safety, NSS IIT Roorkee, 2024
 A simple solution to a big problem. A solution to drunk drivers, currently school bus drivers, but could be utilized for others in the future. **Developed by Samik Heda and Taksheel Shah for AI/ML Hackathon on Road safety, NSS IIT Roorkee**
 
  ## The Problem
